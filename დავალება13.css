@@ -5,7 +5,7 @@ body{
     display: flex;
     height: auto;
     width: 1250;
-    margin: 20px;
+    
     
 }
 
@@ -25,10 +25,10 @@ body{
    
 
 section {
-    margin-left: -900px;
+
     margin-top: 140px;
     text-align: center;
-   
+  
    
 
    
@@ -49,29 +49,26 @@ h5{
     opacity: 0.8;
 }
 .left {
-    position: absolute;
-    margin-left: 120px;
+    
     margin-top: 60px;
     width: 360px;
     height: 260px;
     background: #FFFFFF;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
-
+   
 }
 .center {
-    position: absolute;
-    margin-left: 490px;
+   
     margin-top: 60px;
     width: 360px;
     height: 260px;
     background: #FFFFFF;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
+    
 }
 .right {
-    position: absolute;
-    margin-left: 860px;
     margin-top: 60px;
     width: 360px;
     height: 260px;
@@ -79,6 +76,7 @@ h5{
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     margin-right: 120px;
+   
 }
 
 h4 {
@@ -171,5 +169,6 @@ color: #FFFFFF;
   span {
     color: 
     #2C99ED;
-  }   
+  }
+
  
